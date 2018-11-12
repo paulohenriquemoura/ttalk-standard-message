@@ -27,7 +27,7 @@
     }
   },
   "definitions": {
-    "PagedHealthServiceProvider": {
+    "PagedHealthProvider": {
       "type": "object",
       "allOf": [
         {

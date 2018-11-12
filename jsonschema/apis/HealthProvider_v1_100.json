@@ -77,7 +77,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "https://raw.githubusercontent.com/totvs/ttalk-standard-message/HealthServiceProvider/V1/1_100/jsonschema/HealthServiceProvider_1_100.json#/definitions/PagedHealthServiceProvider"
+                  "$ref": "https://raw.githubusercontent.com/totvs/ttalk-standard-message/HealthProvider/V1/1_100/jsonschema/HealthProvider_1_100.json#/definitions/PagedHealthProvider"
                 }
               }
             }
@@ -116,7 +116,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "https://raw.githubusercontent.com/totvs/ttalk-standard-message/HealthServiceProvider/V1/1_100/jsonschema/HealthServiceProvider_1_100.json#/definitions/HealthProviderUpdateRequest"
+                "$ref": "https://raw.githubusercontent.com/totvs/ttalk-standard-message/HealthProvider/V1/1_100/jsonschema/HealthProvider_1_100.json#/definitions/HealthProviderUpdateRequest"
               }
             }
           },
